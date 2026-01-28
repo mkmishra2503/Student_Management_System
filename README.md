@@ -61,7 +61,7 @@ Student-Management-System/
 ![Start Output](screenshots/start_output.png)
 
 ### ➕ Add Student
-![Add Student](screenshots/add_student.png)
+![Add Student](screenshots/add.student.png)
 
 ### 📋 View Students
 ![View Student](screenshots/view_student.png)
