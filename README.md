@@ -102,14 +102,16 @@ private static final String USER = "postgres";
 private static final String PASSWORD = System.getenv("DB_PASSWORD");
 ⚠️ Database password is managed using environment variables for security.
 ```
+---
 
-```
+
 ▶️ How to Run the Project
 Clone the repository
-
-git clone https://github.com/your-username/student-management-system.git
-Open project in Eclipse / IntelliJ
 ```
+git clone https://github.com/mkmishra2503/Student_Management_System.git
+
+```
+---
 
 Add PostgreSQL JDBC Driver to classpath
 
@@ -118,5 +120,8 @@ Set environment variable:
 setx DB_PASSWORD your_password
 Run Main.java
 
+---
 
 ⭐ If you like this project, please give it a star!
+
+---
