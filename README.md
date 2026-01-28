@@ -101,12 +101,15 @@ private static final String URL = "jdbc:postgresql://localhost:5432/smsdb";
 private static final String USER = "postgres";
 private static final String PASSWORD = System.getenv("DB_PASSWORD");
 ⚠️ Database password is managed using environment variables for security.
+```
 
+```
 ▶️ How to Run the Project
 Clone the repository
 
 git clone https://github.com/your-username/student-management-system.git
 Open project in Eclipse / IntelliJ
+```
 
 Add PostgreSQL JDBC Driver to classpath
 
