@@ -30,6 +30,7 @@ This project demonstrates backend fundamentals including database connectivity, 
 
 ## 📂 Project Structure
 
+```text
 Student-Management-System/
 │
 ├── src/
@@ -51,7 +52,7 @@ Student-Management-System/
 │
 ├── README.md
 ├── .gitignore
-
+```
 
 ---
 
